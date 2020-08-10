@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.signup-section{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0070b8+0,007a96+100 */
+background: #0070b8; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #0070b8 0%, #007a96 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #0070b8 0%,#007a96 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #0070b8 0%,#007a96 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0070b8', endColorstr='#007a96',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+min-height: 800px
+
+}
+
+.signup-box{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+.signup-box img{}
+.signup-box h1{
+    color: #fff;
+    font-size: 30px;
+}
+.signup-form{
+    padding-top: 30px;
+}
+.signup-form form{padding: 48px;text-align: left;background-color: #EDEDED;margin-bottom: 15px;box-shadow: 0px 1px 8px 5px #55555566;}
+.signup-form form label{color: #555;font-size: 20px;}
+.signup-form form input{
+    width: 100%;
+    padding: 6px 0px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: 1px solid #55555573;
+}
+
+.signup-form form input[type="submit"]{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0077a6+0,0082a3+100 */
+background: #0077a6; /* Old browsers */
+background: -moz-linear-gradient(top,  #0077a6 0%, #0082a3 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0077a6 0%,#0082a3 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0077a6 0%,#0082a3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0077a6', endColorstr='#0082a3',GradientType=0 ); /* IE6-9 */
+
+cursor: pointer;
+
+	color: #fff;
+	margin-top: 20px;
+}
+.signup-form p{
+    color: #ffffff6b;
+}
+.signup-form form p{
+    text-align: center;
+    color: #555;
+    margin-top: 18px;
+}
+.signup-form form p a{
+    text-decoration: none;
+    color: #555;
+    font-weight: 600;
+}
+
